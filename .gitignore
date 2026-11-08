@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+gfo_solvers
+c_periter.dat
+fig_*.png
+*.log
